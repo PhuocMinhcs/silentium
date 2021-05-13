@@ -14,5 +14,5 @@
     yarn start
 ```
 
-*** Fontend server runing at localhost:3000 ***
+*** Fontend server runing at localhost:3000 ***  
 *** Backend server runing at localhost:3001 ***
